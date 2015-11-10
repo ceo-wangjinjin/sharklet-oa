@@ -1,0 +1,25 @@
+{
+  "name": "oa",
+  "description": "oa",
+  "main": "app.js",
+  "authors": [
+    "wangjinjin"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "oa"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "homepage": "http://oa.wangjinjin.com/",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ]
+}
